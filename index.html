@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
+    <title>Dress Up Game</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/reset.css" rel="stylesheet" type="text/css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js">
+    </script>
+</head>
+
+<body>
+    <div class="jumbotron jumbotron-fluid"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Pick My Outfit!</div>
+    <div class="container">
+        <div class="row" id="buttons">
+            <div class="col-md-12">
+                <ul class="d-inline-flex">
+                    <li><button class="btn btn-default" id="shirt_button" type="button">Tops</button></li>
+                    <li><button class="btn btn-default" id="pant_button" type="button">Bottoms</button></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <img id="character" class="img-thumbnail" src="assets/images/girl.png">
+                <div id="clothes">
+                    <img class="shirt" id="top1" src="assets/images/top1.png">
+                    <img class="shirt" id="top2" src="assets/images/top2.png">
+                    <img class="shirt" id="top3" src="assets/images/top3.png">
+                    <img class="pant" id="bottom1" src="assets/images/pant1.png">
+                    <img class="pant" id="bottom2" src="assets/images/pant2.png">
+                    <img class="pant" id="bottom3" src="assets/images/pant3.png">
+                </div>
+            </div>
+        </div>
+
+        <script src="assets/javascript/game.js">
+        </script>
+        <footer>
+            <p>Copyright © 2019</p>
+        </footer>
+</body>
+
+</html>
