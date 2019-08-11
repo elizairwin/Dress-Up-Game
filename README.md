@@ -1,4 +1,4 @@
-A simple game that uses HTML5, CSS, Bootstrap, and JavaScript and JQuery.
+A simple game that uses HTML5, CSS, Bootstrap, JavaScript, and JQuery.
 
 The user clicks the clothing buttons to dress the character in an outfit.
 
