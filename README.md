@@ -1,7 +1,7 @@
 # Dress-Up-Game
 
 ## Description: 
-A simple game that 
+A simple game where the user can click buttons to dress up their character.
 
 ## Technology Used:
 * HTML
