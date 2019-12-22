@@ -1,5 +1,18 @@
-A simple game that uses HTML5, CSS, Bootstrap, JavaScript, and JQuery.
+# Dress-Up-Game
 
-The user clicks the clothing buttons to dress the character in an outfit.
+## Description: 
+A simple game that 
 
-The 'icebox' includes more outfit/accessory choices for the user to pick from.
+## Technology Used:
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* jQuery
+
+## My Role in App Developement: 
+* Performed setup
+* Created files
+* Wrote clean code
+* Tested app
+* Debugged app
